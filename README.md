@@ -8,13 +8,21 @@ Due to the large size of the dataset, we will update other datasets later.
 
 ——————————————————————————————————————————————————————————————————————————————————————————————————————————————
 File Structure：
+
 ——————————————————————————————DDMSL-main
+
 ——————————————-----dataset
+
 ——————————————-----model
+
 ——————————————-----model.py
+
 ——————————————-----model_test.py
+
 ——————————————-----SIR_train_release.py
+
 ——————————————-----Dll1.dll
+
 ———————————————————————————————————————————————————————————————————————————————————————————————————————————————
 
 Dll1. DLL is a dynamic link library used to generate state transition matrices and can only run in the Windows environment.
