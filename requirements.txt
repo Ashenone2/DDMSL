@@ -1,0 +1,13 @@
+dgl==1.1.0+cu118
+ipdb==0.13.11
+matplotlib==3.6.2
+ndlib==5.1.1
+networkx==3.0
+numpy==1.23.0
+numpy==1.24.3
+pandas==1.5.2
+scikit_learn==1.2.0
+scipy==1.9.3
+torch==1.13.1
+tqdm==4.64.1
+tqdm==4.65.0
