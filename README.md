@@ -28,4 +28,4 @@ File Structure：
 Dll1. DLL is a dynamic link library used to generate state transition matrices and can only run in the Windows environment.
 
 
-Please run SIR first_ Train_ Release. py, the trained model will be stored in the model folder. And in the model_ Modify the corresponding file path in tset.py for testing.
+Please run SIR_train_release.py first, the trained model will be stored in the model folder. And in the model_ Modify the corresponding file path in tset.py for testing.
